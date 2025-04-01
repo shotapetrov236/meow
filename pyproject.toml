@@ -1,0 +1,5 @@
+[project]
+name = "meow"
+version = "0.1.0"
+description = "The most Purr-fect Image File Format for your AI workflows"
+requires-python = ">=3.10"
